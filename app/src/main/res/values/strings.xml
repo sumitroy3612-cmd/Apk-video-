@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AI Video Maker</string>
+    <string name="app_title">Free AI Video Maker</string>
+    <string name="app_subtitle_en_hi">Create Videos from Text &amp; Photos • टेक्स्ट व फोटो से वीडियो बनाएं</string>
+    <string name="prompt_label">Describe your video • अपना वीडियो विवरण लिखें</string>
+    <string name="prompt_placeholder">e.g., A cute 3D cartoon baby dragon sneezing magical fire in an enchanted forest...</string>
+    <string name="upload_image">Upload Image • फोटो जोड़ें</string>
+    <string name="change_image">Change Image • फोटो बदलें</string>
+    <string name="remove_image">Remove • हटाएं</string>
+    <string name="video_style">Video Style • वीडियो शैली</string>
+    <string name="duration">Duration • अवधि</string>
+    <string name="aspect_ratio">Aspect Ratio • स्क्रीन आकार</string>
+    <string name="btn_generate">Generate Video • वीडियो बनाएं</string>
+    <string name="btn_download">Download Video • वीडियो डाउनलोड करें</string>
+    <string name="btn_share">Share • शेयर करें</string>
+    <string name="free_tier_badge">100% Free • कोई शुल्क नहीं</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Free AI Video Maker",
+  "description": "Create AI videos from text or images with cartoon, anime, 3D, and realistic cinematic styles for YouTube Shorts and Instagram Reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
